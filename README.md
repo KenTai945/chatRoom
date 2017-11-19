@@ -1,6 +1,8 @@
 # chatRoom
 This is the basic chat room application which is implemented by server side(index.html) and client side(app.js).
+
 It uses Node.js express and socket.io to implement it.
+Applying jQuery CDN on it.
 
 # how to how
 1. in the terminal: $ node app.js
